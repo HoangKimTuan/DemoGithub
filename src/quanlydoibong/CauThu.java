@@ -129,6 +129,7 @@ public class CauThu {
 			this.ghiChu = print.nextLine();	
 			str = this.ghiChu + "\r\n";
 			fw.write(str);
+			System.out.println("xsxsxs");
 			
 			System.out.print("Nhap 'stop' de dung nhap thong tin cau thu hoac gia tri bat ky de tiep tuc? ");
 			x = print.nextLine();
